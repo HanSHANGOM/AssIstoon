@@ -1,0 +1,12 @@
+#folder
+sfx_extract/dataset
+results
+sfx_extract/.vs
+sfx_extract/.ipynb_checkpoints
+.idea
+#file
+*.h5
+*.jpg
+*.png
+*.zip
+sfx_exract/train_test.py
