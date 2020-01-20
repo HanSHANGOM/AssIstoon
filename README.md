@@ -4,7 +4,7 @@
 Documents
 -------------
 
-this project is capstone design project in **HKNU **(HanKyung National University) , we are making this to segment and inpaint sound effect(sfx) and translate normal text
+this project is capstone design project in **HKNU**(HanKyung National University) , we are making this to segment and inpaint sound effect(sfx) and translate normal text
 for editing manga and auto detect and translating manga script.
 > **Note:**
 
